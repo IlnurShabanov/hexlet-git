@@ -4,4 +4,5 @@ node_modules
 #ignoring directory in every directory
 doc/**/*.txt
 ignoring all txt files in cataloge doc
+INFO.md
 
