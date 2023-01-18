@@ -1,0 +1,7 @@
+access.log
+#ignoring file in every directory
+node_modules
+#ignoring directory in every directory
+doc/**/*.txt
+ignoring all txt files in cataloge doc
+
